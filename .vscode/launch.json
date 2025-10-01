@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "SF9X_Presence",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/SF9X_Presence.csproj",
+        }
+    ]
+}

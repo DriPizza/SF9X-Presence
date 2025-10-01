@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SF9X_Presence/1.0.0": {
+        "runtime": {
+          "SF9X_Presence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SF9X_Presence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

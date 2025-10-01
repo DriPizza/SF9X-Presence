@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF9X_Presence", "SF9X_Presence.csproj", "{3AE0D9B6-24FF-A4FF-F799-EC9859A28CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE0D9B6-24FF-A4FF-F799-EC9859A28CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE0D9B6-24FF-A4FF-F799-EC9859A28CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE0D9B6-24FF-A4FF-F799-EC9859A28CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE0D9B6-24FF-A4FF-F799-EC9859A28CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AACED760-FE34-4783-90CD-A0CE7D6C60EA}
+	EndGlobalSection
+EndGlobal

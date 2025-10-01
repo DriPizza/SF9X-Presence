@@ -1,0 +1,16 @@
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\bin\Debug\net9.0\SF9X_Presence.exe
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\bin\Debug\net9.0\discord_game_sdk.dll
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\bin\Debug\net9.0\SF9X_Presence.deps.json
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\bin\Debug\net9.0\SF9X_Presence.runtimeconfig.json
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\bin\Debug\net9.0\SF9X_Presence.dll
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\bin\Debug\net9.0\SF9X_Presence.pdb
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\obj\Debug\net9.0\SF9X_Presence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\obj\Debug\net9.0\SF9X_Presence.AssemblyInfoInputs.cache
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\obj\Debug\net9.0\SF9X_Presence.AssemblyInfo.cs
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\obj\Debug\net9.0\SF9X_Presence.csproj.CoreCompileInputs.cache
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\obj\Debug\net9.0\SF9X_Presence.dll
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\obj\Debug\net9.0\refint\SF9X_Presence.dll
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\obj\Debug\net9.0\SF9X_Presence.pdb
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\obj\Debug\net9.0\SF9X_Presence.genruntimeconfig.cache
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\obj\Debug\net9.0\ref\SF9X_Presence.dll
+C:\Users\DriPizza\Documents\Coding\SF9X Presence\obj\Debug\net9.0\SF9X_Presence.sourcelink.json
